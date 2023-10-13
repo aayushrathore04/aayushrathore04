@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java programming language
 - 💞️ 
 - 📫 How to reach me DM me on Instagram Id @aayushrathore_
+- thee is some changes
 
 <!---
 aayushrathore04/aayushrathore04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
